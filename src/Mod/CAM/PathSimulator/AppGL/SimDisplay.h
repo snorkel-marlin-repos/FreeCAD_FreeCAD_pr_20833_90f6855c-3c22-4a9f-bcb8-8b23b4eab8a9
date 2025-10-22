@@ -60,7 +60,6 @@ public:
     void TiltEye(float tiltStep);
     void RotateEye(float rotStep);
     void MoveEye(float x, float z);
-    void MoveEyeCenter();
     void UpdateEyeFactor(float factor);
     void UpdateWindowScale();
 
