@@ -52,8 +52,7 @@ enum eGuiItems
     eGuiItemPath,
     eGuiItemAmbientOclusion,
     eGuiItemView,
-    eGuiItemHome,
-    eGuiItemMax  // this element must be the last item always
+    eGuiItemMax
 };
 
 struct GuiItem
